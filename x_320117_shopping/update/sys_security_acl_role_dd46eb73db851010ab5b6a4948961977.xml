@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-04 08:35:41</sys_created_on>
+        <sys_id>dd46eb73db851010ab5b6a4948961977</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_320117_shopping_store.itil_admin</sys_name>
+        <sys_package display_value="Shopping List" source="x_320117_shopping">2c75e733db851010ab5b6a494896195c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">2c75e733db851010ab5b6a494896195c</sys_scope>
+        <sys_security_acl display_value="x_320117_shopping_store">d546eb73db851010ab5b6a4948961975</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_dd46eb73db851010ab5b6a4948961977</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-04 08:35:41</sys_updated_on>
+        <sys_user_role display_value="itil_admin" name="itil_admin">28322f3cc611228500e20459e33eef34</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

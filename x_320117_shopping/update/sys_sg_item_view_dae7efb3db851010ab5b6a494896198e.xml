@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_view">
+    <sys_sg_item_view action="INSERT_OR_UPDATE">
+        <data_item display_value="Shopping List Store">dae7efb3db851010ab5b6a494896198d</data_item>
+        <dependency_fields>sys_id-42257,store_name-22124</dependency_fields>
+        <item_view_json>{"Type":"ViewGroup","Margin":{"Top":15,"Bottom":17},"Orientation":"Horizontal","Alignment":"Stretch","Distribution":"Auto","Children":[{"Type":"Image","CellId":"sys_id","Height":54,"Width":51,"Scaling":"Fit","Id":42257},{"Type":"Text","Margin":{"Left":16},"Text":"PLACEHOLDER","CellId":"store_name","TextColor":"#333e3f","TextAlignment":"Left","MaxLines":2,"Font":{"Weight":"regular","Size":16},"Id":22124},{"Type":"Text","Margin":{},"Width":20,"Text":"","TextColor":"#a7b0b2","TextAlignment":"Right","MaxLines":1,"Font":{"Weight":"regular","Size":14,"Name":"icomoon"},"Id":22125}],"Id":28090,"studio_card_id":"08d93bef0f733300c46f5cbac4767e11"}</item_view_json>
+        <name>Store List Screen Item View</name>
+        <short_description/>
+        <sys_class_name>sys_sg_item_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-04 08:42:51</sys_created_on>
+        <sys_id>dae7efb3db851010ab5b6a494896198e</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Store List Screen Item View</sys_name>
+        <sys_package display_value="Shopping List" source="x_320117_shopping">2c75e733db851010ab5b6a494896195c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">2c75e733db851010ab5b6a494896195c</sys_scope>
+        <sys_update_name>sys_sg_item_view_dae7efb3db851010ab5b6a494896198e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-04 10:26:33</sys_updated_on>
+        <table>x_320117_shopping_store</table>
+        <ui_styles/>
+    </sys_sg_item_view>
+    <sys_translated_text action="delete_multiple" query="documentkey=dae7efb3db851010ab5b6a494896198e"/>
+</record_update>
